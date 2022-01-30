@@ -17,3 +17,8 @@ Hyderabad is the capital of **southern India** Telangana state. A major center f
     1. Collect the lagguage and complete the check-out process in hyderabad
     2. Book a cab to hotel
 
+* Biryani
+* kheer
+* chicken masala curry
+* dosa
+* choclates
