@@ -24,3 +24,18 @@ Hyderabad is the capital of **southern India** Telangana state. A major center f
 * choclates
 
 [AboutMe](https://github.com/srikanthvarala/assignment2-varala/blob/main/AboutMe.md)
+
+---
+
+# Table Creation
+
+The table recoomends some of the sport activities.Which i played from my childhood.
+
+
+|    Sport/Activity  |   Location      |   Amount   |
+|    ----            |   ----          |   ----     |
+|   cricket          |  ground         |   $200     |
+|   tenis            |  Indoor stadium |   $100     |
+|   chess            |  Indoor Stadium |   $ 50     |
+|   football         |  stadium        |   $300     |
+
