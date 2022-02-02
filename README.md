@@ -47,3 +47,26 @@ The table recoomends some of the sport activities.Which i played from my childho
 > "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart"- by ***Helen keller***
 
 
+# Algorithm on Data Structures
+
+> In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data ,i.e., it is an algebraic structure about data.
+
+
+Source link for the definition - <https://en.wikipedia.org/wiki/Data_structure>
+
+---
+
+int new_min = st.empty() ? new_elem : min(new_elem, st.top().second);
+st.push({new_elem, new_min});
+
+int removed_element = st.top().first;
+st.pop();
+
+int minimum = st.top().second;
+
+int minimum = s1.empty() ? new_element : min(new_element, s1.top().second);
+s1.push({new_element, minimum});
+
+---
+Source link for code  - <https://cp-algorithms.com/data_structures/stack_queue_modification.html>
+
