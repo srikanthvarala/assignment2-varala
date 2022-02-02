@@ -39,3 +39,11 @@ The table recoomends some of the sport activities.Which i played from my childho
 |   chess            |  Indoor Stadium |   $ 50     |
 |   football         |  stadium        |   $300     |
 
+---
+
+# Quotes by greatest people
+
+> "Spread love everywhere you go.Let no one ever come to you without leaving happier"- by ***Mother Teresa***<br>
+> "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart"- by ***Helen keller***
+
+
